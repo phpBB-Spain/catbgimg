@@ -1,5 +1,5 @@
 # Category Background Image
-Allow add an image/icon in the background category (16 x 16 px. recommended).
+Very simple extension that allows add an image/icon in the background category (16 x 16 px. image recommended).
 
 ## Corrección de errores
 Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "Pull Request".
