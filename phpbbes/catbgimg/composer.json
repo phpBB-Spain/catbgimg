@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Allows you to add an image/icon in the background category (16 x 16 px. recommended).",
     "homepage": "www.phpbb-es.com",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "GPL-2.0",
     "authors": [
         {
