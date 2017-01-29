@@ -1,0 +1,29 @@
+#catbgndimg {
+	float: left;
+	display: inline-block;
+	margin: 1px 4px 0 0;
+    max-height: 16px;
+    vertical-align: middle;
+    width: auto;
+}
+
+.catbgndimg img {
+	max-height: 16px;
+	vertical-align: middle;
+	width: auto;
+}
+
+.rtl #catbgndimg {
+	float: right;
+	display: inline-block;
+	margin: 0 2px 0 4px;
+    max-height: 16px;
+    vertical-align: middle;
+    width: auto;
+}
+
+.rtl .catbgndimg img {
+	max-height: 16px;
+	vertical-align: middle;
+	width: auto;
+}
