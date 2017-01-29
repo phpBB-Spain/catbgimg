@@ -1,17 +1,30 @@
 {
     "name": "phpbbes/catbgimg",
     "type": "phpbb-extension",
-    "description": "Allows you to add an image/icon in the background category (16 x 16 px. recommended).",
+    "description": "Very simple extension that allows add an image/icon in the background category (16 x 16 px. image recommended).",
     "homepage": "www.phpbb-es.com",
     "version": "1.0.1",
     "license": "GPL-2.0",
-    "authors": [
-        {
+	"authors": [
+		{
 			"name": "andares",
 			"email": "andares.cat@gmail.com",
 			"homepage": "www.phpbb-es.com",
+			"role": "Extension Developer"
+		},
+		{
+			"name": "ThE KuKa",
+			"email": "thekuka@phpbb-es.com",
+			"homepage": "www.phpbb-es.com",
 			"role": "Developer"
-        }
+		},
+		{
+			"name": "phpBB Spain",
+			"email": "no-responder@phpbb-es.com",
+			"homepage": "www.phpbb-es.com",
+			"role": "Developer"
+		}
+		
     ],
     "require": {
         "php": ">=5.3.3",
