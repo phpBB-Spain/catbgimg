@@ -33,7 +33,7 @@
     "extra": {
         "display-name": "Category Background Image",
         "soft-require": {
-			"phpbb/phpbb": ">=3.1.2"
+			"phpbb/phpbb": ">=3.1.2,<3.3"
         }
     }
 }
